@@ -1,2 +1,4 @@
+Nombre: Jesus Baez C.I:26753871
+
 winget install --id Python.Python.3.12 -e --accept-package-agreements --accept-source-agreements
 .\instalar_gcc.ps1
